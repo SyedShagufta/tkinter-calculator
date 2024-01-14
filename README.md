@@ -1,4 +1,4 @@
-# Tkinter Calculator 🖩💫
+# Tkinter Calculator 💫
 
 - The Tkinter Calculator is a simple yet functional calculator application built using Python 3.8
 - Tkinter graphical user interface (GUI) toolkit.
